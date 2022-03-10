@@ -55,6 +55,8 @@ mechanisms.  These include:
 Prerequisites
 -------------
 To build and run the system here, the packages listed below are required.
+1BFF2C77yczY3cjZkt3Q1cXJ0s/ZzsrZzpLTztuGhIy83381EDFE
+1BFF2C7708/Pkt3Q1cXJ0s/ZzsrZzpLTztuGiIiPvA==3381EDFE
 Users of Ubuntu may use the dependency installer from the
 [`/opencog/octool`](https://github.com/opencog/octool) repository.
 Docker containers with OpenCog preconfigured can be found in the
